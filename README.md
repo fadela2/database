@@ -11,7 +11,7 @@
 - **Password:** kk
 
 ---
-http://localhost/IUG/register.php
+http://localhost/IUG2/register.php
 
 ✅ The project includes:
 - User registration and login  
