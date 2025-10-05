@@ -11,7 +11,7 @@
 - **Password:** kk
 
 ---
-http://localhost/IUG/view_news.php
+http://localhost/IUG2/view_news.php
 
 ✅ The project includes:
 - User registration and login  
